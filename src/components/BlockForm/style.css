@@ -1,0 +1,18 @@
+.input-container{
+    margin: 10px 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.input-container label{
+    display: block;
+    width: 50%;
+    text-align: left;
+}
+
+.input-container input,
+.input-container select {
+    display: block;
+    width: 50%;
+}
